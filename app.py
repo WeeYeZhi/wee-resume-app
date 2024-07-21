@@ -25,12 +25,12 @@ lottie1 = load_lottieurl("https://lottie.host/eb9ffb9f-d744-4403-8b66-04e1b21dc0
 lottie2 = load_lottieurl("https://lottie.host/75882b5a-a42c-42ea-9c65-309ad82488a5/gK1AckAP0t.json")
 lottie3 = load_lottieurl("https://lottie.host/f60ae7a0-239a-4477-8d02-dcea435d3d71/5O9BJped9y.json")
 lottie4 = load_lottieurl("https://lottie.host/4cc742cf-30d6-4522-9a51-41d512e2f886/YZHnoeW63L.json")
-img1 = Image.open("C:\\Users\\USER\\Documents\\streamlit_website_app\\assets\\profilepic7.png")
 
 #----PATH SETTINGS----
 current_dir = Path(_file_).parent if "_file_" in locals() else Path.cwd()
 fypposter_file = current_dir / "assets" / "fypposter.pdf"
 experience_file = current_dir / "assets" / "experience.json"
+profile_pic = current_dir / "assets" / "profile-pic.png"
 
 # ---- HEADER SECTION ----
 with st.container():
@@ -44,7 +44,8 @@ with st.container():
         st.write("📞 012-8517668")
         st.markdown("[LinkedIn profile](https://www.linkedin.com/in/wee-ye-zhi-121960224)")
     with right_column:
-        st.image(img1)
+        profile_pic = Image.open(profile_pic)
+        st.image(profile_pic)
 
 #----CONTENT SECTION----
 
