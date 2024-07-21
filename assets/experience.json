@@ -23,6 +23,20 @@
       {
         "start_date": {
           "year": "2024",
+          "month":"7"
+        },
+        "end_date": {
+          "year": "2024",
+          "month":"7"
+        },
+        "text": {
+          "headline": "Real time PCR Hands-on Workshop 2024 at INBIOSIS, UKM",
+          "text": "<p>Among the skills that I've learned include: <br><br> 🚀 Designing and choosing primer by using NCBI Primer-BLAST. <br><br> 🚀 Using the NucleoSpin RNA Plant and Fungi kit to successfully extract the RNA from the root of <em>Elaeis guineensis</em> (African oil palm). <br><br> 🚀 Using nanodrop spectrophotometer to measure and record the concentration and purity of RNA thrice after performing the RNA extraction process. <br><br> 🚀 Using 4 x gDNA wiper mix to remove residual genomic DNA (gDNA) from the RNA template. <br><br> 🚀 Using 5 x HiScript III qRT SuperMix to reverse transcribe the mRNA into cDNA. <br><br> 🚀 Preparing the qPCR mixture by mixing 2 x Taq Pro Universal SYBR qPCR Master Mix with the forward primer, reverse primer and ddH2O for both the reference gene/housekeeping gene (GRAS) and target gene (SITP-2) of <em>Elaeis guineensis</em> to run qPCR. <br><br> 🚀 Performing serial dilution of cDNA by dluting the cDNA each step by a dilution factor of 2 to prepare and generate a standard curve. <br><br> 🚀 Analyzing the standard curve to check for primer efficiency and analyzing melting curve to ensure each fluorescent signal corresponds to a specific amplicon rather than to non-specific amplifications/primer-dimers. <br><br> 🚀 Analyzing gene expression level of the <em>Elaeis guineensis</em> target gene in comparison to its reference housekeeping gene to determine whether the target gene is upregulated or downregulated by means of calculating the delta Ct and delta-delta Ct values. <br><br> <img src='https://i.imgur.com/8ZNYojV.png' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://i.imgur.com/FAcmo3G.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <br><br> <img src='https://i.imgur.com/UHE40mS.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://i.imgur.com/9waBJBX.jpeg' style='width:48%; display:inline-block; vertical-align:top;'></p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2024",
           "month":"6"
         },
         "end_date": {
@@ -73,7 +87,7 @@
         },
         "text": {
           "headline": "Secretariat of Exco Academic & Documentation (Kelab Gabungan Mahasiswa Biologi (BIOSIS), UMT)",
-          "text": "<p>I assisted Exco of Academic & Documentation to record and document all the events that have been organized by the BIOSIS club systematically. <br><br> Also, I held meetings & discussed with the Exco to plan and organize events to possibly elevate the motivation level & passion of biological science students in the field of biology to help improve their academic performance.</p>"
+          "text": "<p>I assisted Exco of Academic & Documentation to record and document all the events that have been organized by the BIOSIS club systematically. <br><br> Also, I held meetings & discussed with the Exco to plan and organize events to possibly elevate the motivation level & passion of biological science students in the field of biology to help improve their academic performance.<br><br> <img src='https://i.imgur.com/sDP4Zqg.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://i.imgur.com/xbTToeB.jpeg' style='width:48%; display:inline-block; vertical-align:top;'></p>"
         }
       },
       {
