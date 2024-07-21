@@ -11,7 +11,7 @@ import json
 # Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
 # Find more animations here: https://lottiefiles.com/search?category=animations&utm_source=search&utm_medium=platform
 
-st.set_page_config(page_title="My Resume", page_icon=":🎓:", layout="wide")
+st.set_page_config(page_title="Wee Ye Zhi", page_icon=":🎓:", layout="wide")
 
 #Create a function to access the json data of the lottie animation
 def load_lottieurl(url):
