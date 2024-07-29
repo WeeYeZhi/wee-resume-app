@@ -30,6 +30,20 @@
           "month":"7"
         },
         "text": {
+          "headline": "International Symposium on Synthetic Biology & CRISPR Technology (iSynBioCT2024)",
+          "text": "<p>I've participated in an International Symposium on Synthetic Biology and CRISPR Technology organized by INBIOSIS UKM from 23 July 2024 to 24 July 2024. Throughout the symposium, I've gained lots of wonderful insights into the transformative power of CRISPR-Cas9 technology that can help revolutionize the field of health, medicine, agriculture, food technology and a lot more.<br><br> <img src='https://i.imgur.com/2Px4N5W.png' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://i.imgur.com/l5Ms8oZ.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <br><br> <img src='https://i.imgur.com/j76jnFD.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://i.imgur.com/4rM0hzu.jpeg' style='width:48%; display:inline-block; vertical-align:top;'></p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2024",
+          "month":"7"
+        },
+        "end_date": {
+          "year": "2024",
+          "month":"7"
+        },
+        "text": {
           "headline": "Real time PCR Hands-on Workshop 2024 at INBIOSIS, UKM",
           "text": "<p>Among the skills that I've learned include: <br><br> 🚀 Designing and choosing primer by using NCBI Primer-BLAST. <br><br> 🚀 Using the NucleoSpin RNA Plant and Fungi kit to successfully extract the RNA from the root of <em>Elaeis guineensis</em> (African oil palm). <br><br> 🚀 Using nanodrop spectrophotometer to measure and record the concentration and purity of RNA thrice after performing the RNA extraction process. <br><br> 🚀 Using 4 x gDNA wiper mix to remove residual genomic DNA (gDNA) from the RNA template. <br><br> 🚀 Using 5 x HiScript III qRT SuperMix to reverse transcribe the mRNA into cDNA. <br><br> 🚀 Preparing the qPCR mixture by mixing 2 x Taq Pro Universal SYBR qPCR Master Mix with the forward primer, reverse primer and ddH2O for both the reference gene/housekeeping gene (GRAS) and target gene (SITP-2) of <em>Elaeis guineensis</em> to run qPCR. <br><br> 🚀 Performing serial dilution of cDNA by dluting the cDNA each step by a dilution factor of 2 to prepare and generate a standard curve. <br><br> 🚀 Analyzing the standard curve to check for primer efficiency and analyzing melting curve to ensure each fluorescent signal corresponds to a specific amplicon rather than to non-specific amplifications/primer-dimers. <br><br> 🚀 Analyzing gene expression level of the <em>Elaeis guineensis</em> target gene in comparison to its reference housekeeping gene to determine whether the target gene is upregulated or downregulated by means of calculating the delta Ct and delta-delta Ct values. <br><br> <img src='https://i.imgur.com/8ZNYojV.png' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://i.imgur.com/FAcmo3G.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <br><br> <img src='https://i.imgur.com/UHE40mS.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://i.imgur.com/9waBJBX.jpeg' style='width:48%; display:inline-block; vertical-align:top;'></p>"
         }
@@ -73,7 +87,7 @@
         },
         "text": {
           "headline": "UTM Asian Parliamentary International (API) Debate 2023",
-          "text": "<p>I participated in the debate competition, but I didn't manage to break into semi-finals.</p>"
+          "text": "<p>I participated in the debate competition, but I didn't manage to break into semi-finals. <br><br> <img src='https://i.imgur.com/B0GIJw6.jpeg' style='width:100%; max-width:600px;'></p>"
         }
       },
       {
@@ -101,7 +115,7 @@
         },
         "text": {
           "headline": "International Debate Johor Cup Competition (IDJC)",
-          "text": "<p>I participated in the IDJC competition, where I managed to break into finals together with my team and we emerged as first-runner up. <br><br> I was one of the best speakers where I secured 4th place in the best speaker list. <br><br>Watch the debate on <a href='https://www.youtube.com/watch?v=Sg8VkFJQmrk&t=2272s' target='_blank'>YouTube</a>. <br><br> <img src='https://i.imgur.com/0HEUClB.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://i.imgur.com/jWAGoQZ.png' style='width:48%; display:inline-block; vertical-align:top;'></p>"
+          "text": "<p>I participated in the IDJC competition, where I managed to break into finals together with my team and we emerged as first-runner up. <br><br> I was one of the best speakers where I secured 4th place in the best speaker list. <br><br>Watch the debate on <a href='https://www.youtube.com/watch?v=Sg8VkFJQmrk&t=2272s' target='_blank'>YouTube</a>. <br><br> <img src='https://i.imgur.com/0HEUClB.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://i.imgur.com/jWAGoQZ.png' style='width:48%; display:inline-block; vertical-align:top;'> <br><br> <img src='https://i.imgur.com/Is9IhEP.jpeg' style='width:100%; max-width:400px;'></p>"
         }
       },
       {
@@ -115,7 +129,7 @@
         },
         "text": {
           "headline": "USM Open Debating Championship 2022",
-          "text": "<p>I participated in the debate competition, where I managed to break into semi-finals. <br><br> <img src='https://i.imgur.com/dBgqNdV.png' style='width:100%; max-width:600px;'></p>"
+          "text": "<p>I participated in the debate competition, where I managed to break into semi-finals. <br><br> <img src='https://i.imgur.com/i1kxo2S.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://i.imgur.com/voq1ENh.png' style='width:48%; display:inline-block; vertical-align:top;'></p>"
         }
       },
       {
