@@ -194,7 +194,7 @@ with st.container():
     st.write("###")
     left_column, right_column=st.columns(2)
     with left_column:
-        st.write("**Dean's List in Semesters 1-5** (October 2021 - March 2024)")
+        st.write("**Dean's List in Semesters 1-6** (October 2021 - August 2024)")
         st.write("**Faculty Awards: Best Research Project Awards (UMT Student Research Day 2024)** (25 June 2024)")
         st.write("**First-Runner Up of International Debate Johor Cup 2.0** (10 September 2022 - 11 September 2022)")
         st.write("**Second-Runner Up of USM Open Debate Championship 2022** (9 June 2022 - 11 June 2022)")
