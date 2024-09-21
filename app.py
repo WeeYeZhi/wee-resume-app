@@ -260,7 +260,7 @@ with st.container():
     left_column, right_column=st.columns(2)
     with left_column:
         contact_form = f"""
-        <form action="https://formsubmit.co/weeyz02@gmail.com" method="POST">
+        <form action="https://formsubmit.co/weeyezhi@gmail.com" method="POST">
             <input type="hidden" name="_captcha value="false">
             <input type="text" name="name" placeholder="Kindly enter your name here" required style="width: 600px;"><br>
             <input type="email" name="email" placeholder="Kindly enter your email here" required style="width: 600px;"><br>
