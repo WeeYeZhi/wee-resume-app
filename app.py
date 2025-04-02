@@ -202,6 +202,24 @@ with st.container():
     with right_column:
         st_lottie(lottie2, height=200, width=250)
 
+#PUBLICATIONS
+
+with st.container():
+    st.write("---")
+    st.header("Publications 📰")
+    st.write("###")
+    st.markdown("[1. Marine Natural Products as Potential Inhibitors Against Pathogenic *Streptococcus agalactiae* Using Molecular Docking Study for Human and Fish Disease Control](https://www.researchgate.net/publication/386218195_Marine_Natural_Products_as_Potential_Inhibitors_Against_Pathogenic_Streptococcus_agalactiae_Using_Molecular_Docking_Study_For_Human_and_Fish_Disease_Control)")
+    left_column, center_column, right_column=st.columns(3)
+    with left_column:
+        st.write("Received: 13 March 2024")
+    with center_column:
+        st.write("Accepted: 10 August 2024")
+    with right_column:
+        st.write("Published: 15 November 2024")
+    st.write("Published in Journal of Sustainability Science and Management (JSSM)")
+    st.write("Volume 19, Number 11, November 2024, 15-38")
+    st.write("Scopus Q3")
+
 #REFERENCES
 
 with st.container():
@@ -249,8 +267,6 @@ with st.container():
         st.write("Institute of Systems Biology (INBIOSIS), Universiti Kebangsaan Malaysia")
         st.write("📞 +(603)89214550")
         st.write("✉ norazlannm@ukm.edu.my")
-
-# CONTACT
 
 # CONTACT
 
