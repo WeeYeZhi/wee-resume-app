@@ -65,6 +65,9 @@ with st.container():
     with left_column:
         st.header("Education 🎓")
         st.write("###")
+        st.write("**Master of Science in Systems Biology**")
+        st.write("October 2024 - December 2026")
+        st.write("###")
         st.write("**B.Sc. (Hons) Biological Sciences** (Universiti Malaysia Terengganu)")
         st.write("October 2021 - August 2024")
         st.write("CGPA: 3.96/4.00")
