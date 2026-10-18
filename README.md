@@ -1,7 +1,7 @@
 
 # My Resume App
 
-This streamlit app (built by streamlit Python package) is my digital version of resume, which showcases:
+This streamlit web app (built by streamlit Python package) is my digital version of resume, which showcases:
 1. My career objective 🎯
 2. Education 🎓
 3. Degree final year project (FYP) 🧑‍💻
