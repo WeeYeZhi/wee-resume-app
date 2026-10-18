@@ -32,7 +32,7 @@ lottie4 = load_lottieurl("https://lottie.host/4cc742cf-30d6-4522-9a51-41d512e2f8
 current_dir = Path(_file_).parent if "_file_" in locals() else Path.cwd()
 fypposter_file = current_dir / "assets" / "fypposter.pdf"
 experience_file = current_dir / "assets" / "experience.json"
-profile_pic = current_dir / "assets" / "profile-pic-formal.png"
+profile_pic = current_dir / "assets" / "passport_picture.jpg"
 
 # ---- HEADER SECTION ----
 with st.container():
@@ -55,7 +55,7 @@ with st.container():
         )
     with right_column:
         profile_pic = Image.open(profile_pic)
-        st.image(profile_pic)
+        st.image(profile_pic, width=350)
 
 #----CONTENT SECTION----
 
