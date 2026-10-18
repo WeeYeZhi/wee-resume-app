@@ -413,11 +413,73 @@ with st.container():
 
     ]
 
-    for cert in certificates:
-        with st.expander(f"📄 {cert['title']}"):
-            st.write(f"**Issuer:** {cert['issuer']}")
-            st.write(f"**Year:** {cert['date']}")
-            st.link_button("View Certificate", cert["url"])
+ # -----------------------------------
+    # Initialize session state
+    # -----------------------------------
+    if "certificate_index" not in st.session_state:
+        st.session_state.certificate_index = 0
+
+    current = certificates[st.session_state.certificate_index]
+
+    # -----------------------------------
+    # Display current certificate
+    # -----------------------------------
+
+    st.subheader(current["title"])
+
+    col1, col2 = st.columns([3,1])
+
+    with col1:
+        st.write(f"**Issuer:** {current['issuer']}")
+        st.write(f"**Date:** {current['date']}")
+
+    with col2:
+        st.link_button(
+            "📄 View Certificate",
+            current["url"],
+            use_container_width=True
+        )
+
+    st.write("")
+
+    # -----------------------------------
+    # Navigation Buttons
+    # -----------------------------------
+
+    left, center, right = st.columns([1,4,1])
+
+    with left:
+        if st.button("◀", use_container_width=True):
+
+            st.session_state.certificate_index = (
+                st.session_state.certificate_index - 1
+            ) % len(certificates)
+
+            st.rerun()
+
+    with center:
+
+        st.markdown(
+            f"""
+            <div style='text-align:center; font-size:18px;'>
+
+            <b>{st.session_state.certificate_index+1}</b>
+            /
+            <b>{len(certificates)}</b>
+
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+
+    with right:
+        if st.button("▶", use_container_width=True):
+
+            st.session_state.certificate_index = (
+                st.session_state.certificate_index + 1
+            ) % len(certificates)
+
+            st.rerun()
 
 #PUBLICATIONS
 
