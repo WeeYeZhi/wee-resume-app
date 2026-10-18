@@ -2,10 +2,52 @@
     "title": {
         "text": {
           "headline": "My Experiences",
-          "text": "<p>Below are attached with all of my experiences so far.</p>"
+          "text": "<p>From attending conferences, symposiums, research attachment to working as a researcher.</p>"
         }
     },
     "events": [
+      {
+        "start_date": {
+          "year": "2026",
+          "month":"2"
+        },
+        "end_date": {
+          "year": "2026",
+          "month":"3"
+        },
+        "text": {
+          "headline": "Bioinformatics Research Attachment at National Institute of Genetics (NIG), Shizuoka, Mishima, Japan",
+          "text": "<p>I've participated in the bioinformatics research attachment at the DNA Data Bank of Japan (DDBJ), National Institute of Genetics (NIG), Japan from 7 February 2026 to 4 March 2026 funded by NIG-JOINT and UKM Global. Throughout the research attachment, I've successfully collaborated and affiliated my master's research with NIG, as well as honing my bioinformatics skills and knowledge in the field of linux-based bioinformatics, and AI protein structure prediction. You can view the Instagram posts of my NIG research attachment shared by <a href='https://www.instagram.com/p/DVdIVayE_sC/' target='_blank'>INBIOSIS, UKM</a> and <a href='https://www.instagram.com/p/DY3Ou1VGCA3/' target='_blank'>UKM Global</a></p> <br><br> <p> <img src='https://imgur.com/LBzDlBJ.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://imgur.com/AI5ylOQ.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <br><br> <img src='https://imgur.com/1Fxpsn7.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://imgur.com/35p6BCV.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://imgur.com/q2oxIoB.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://imgur.com/UyT2QvG.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://imgur.com/ettPUug.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://imgur.com/Ot5wdGv.jpeg' style='width:48%; display:inline-block; vertical-align:top;'></p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2025",
+          "month":"10"
+        },
+        "end_date": {
+          "year": "2025",
+          "month":"10"
+        },
+        "text": {
+          "headline": "Asian Regional Conference on Systems Biology 2025 X International Conference on Natural Products",
+          "text": "<p>I've participated in the Asian Regional Conference on Systems Biology (ARCSB) 2025 X International Conference on Natural Products (ICNP) organised by INBIOSIS, UKM from 14 October 2025 to 16 October 2025. Throughout the conference, I've presented the first and second phase of my master’s research progress, which entitled, “Identification of Potential Inhibitors Against Cocoa Pod Borer (Conopomorpha cramerella) Development-Related Protein Using Bioinformatics Approach as an oral presenter. . <br><br> <img src='https://imgur.com/XrVIYpw.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://imgur.com/ycmsjTb.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <br><br> <img src='https://imgur.com/akeu8xL.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://imgur.com/SqsjGVx.jpeg' style='width:48%; display:inline-block; vertical-align:top;'></p>"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2025",
+          "month":"5"
+        },
+        "end_date": {
+          "year": "2025",
+          "month":"5"
+        },
+        "text": {
+          "headline": "Malaysian International Cocoa Conference (MICC) 2025 at Sabah International Convention Centre (SICC)",
+          "text": "<p>I've participated in the Malaysian International Cocoa Conference (MICC) 2025 organised by the Malaysian Cocoa Board (MCB) from 26 May 2025 to 27 May 2025. Throughout the conference, I've presented the first phase of my master’s research progress, which entitled, “Identification of Potential Inhibitors Against Cocoa Pod Borer (Conopomorpha cramerella) Development-Related Protein Using Bioinformatics Approach as a poster presenter. . <br><br> <img src='https://imgur.com/sq6O0hn.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://imgur.com/yf0dglw.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <br><br> <img src='https://imgur.com/qjVPO0N.jpeg' style='width:48%; display:inline-block; vertical-align:top;'> <img src='https://imgur.com/MuAsZac.jpeg' style='width:48%; display:inline-block; vertical-align:top;'></p>"
+        }
+      },
       {
         "start_date": {
           "year": "2024",
