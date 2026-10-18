@@ -583,18 +583,18 @@ with st.container():
     st.write("---")
     st.header("Contact Me ✉")
     st.write("###")
-    left_column, right_column = st.columns(2)
-    with left_column:
-        contact_form = """
-        <form action="https://formsubmit.co/weeyezhi@gmail.com" method="POST">
-            <input type="hidden" name="_captcha" value="false">
-            <input type="text" name="name" placeholder="Kindly enter your name here" required style="width: 100%; max-width:800px;"><br><br>
-            <input type="email" name="email" placeholder="Kindly enter your email here" required style="width: 100%; max-width:800px;"><br><br>
-            <textarea name="message" placeholder="Kindly enter your message here" required style="width: 100%; max-width:800px; height:120px;"></textarea><br><br>
-            <button type="submit">Send</button>
-        </form>
-        """
-        st.markdown(contact_form, unsafe_allow_html=True)
-    with right_column:
-        st_lottie(lottie4, height=800, width=800)
+
+    contact_form = """
+    <form action="https://formsubmit.co/weeyezhi@gmail.com" method="POST">
+        <input type="hidden" name="_captcha" value="false">
+        <input type="text" name="name" placeholder="Kindly enter your name here" required style="width: 100%; max-width:1400px;"><br><br>
+        <input type="email" name="email" placeholder="Kindly enter your email here" required style="width: 100%; max-width:1400px;"><br><br>
+        <textarea name="message" placeholder="Kindly enter your message here" required style="width: 100%; max-width:1400px; height:120px;"></textarea><br><br>
+        <button type="submit">Submit</button>
+    </form>
+    """
+
+    st.markdown(contact_form, unsafe_allow_html=True)
+
+    st_lottie(lottie4, height=800, width=800)
 
