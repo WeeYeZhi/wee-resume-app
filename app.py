@@ -44,7 +44,15 @@ with st.container():
         st.write("🏠 Kuching, Sarawak, Malaysia")
         st.write("✉ weeyezhi@gmail.com")
         st.write("📞 012-8517668")
-        st.markdown("[LinkedIn profile](https://www.linkedin.com/in/wee-ye-zhi-121960224)")
+        st.markdown(
+            "[LinkedIn](https://www.linkedin.com/in/wee-ye-zhi-121960224) | "
+            "[ResearchGate](https://www.researchgate.net/profile/Wee-Ye-Zhi) | "
+            "[Google Scholar](https://scholar.google.com/citations?user=OkSJ1CwAAAAJ&hl=en) | "
+            "[ORCID](https://orcid.org/0009-0008-5833-9636) | "
+            "[GitHub](https://github.com/WeeYeZhi) | "
+            "[Medium](https://medium.com/@weeyezhi) | "
+            "[Credly](https://www.credly.com/users/ye-zhi-wee/badges/credly)"
+        )
     with right_column:
         profile_pic = Image.open(profile_pic)
         st.image(profile_pic)
