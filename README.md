@@ -10,6 +10,7 @@ This streamlit app (built by streamlit Python package) is my digital version of 
 6. Skills 🚀
 7. Qualities 🌟
 8. Honors & Awards 🏆
-9. Publications 📰
-10. References ✉
-11. Contact 📞
+9. Certificates of Accomplishment 📜
+10. Publications 📰
+11. References ✉
+12. Contact 📞
